@@ -1,0 +1,5 @@
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home9/Task68/obj/Debug/net7.0/Task68.csproj.AssemblyReference.cache
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home9/Task68/obj/Debug/net7.0/Task68.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home9/Task68/obj/Debug/net7.0/Task68.AssemblyInfoInputs.cache
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home9/Task68/obj/Debug/net7.0/Task68.AssemblyInfo.cs
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home9/Task68/obj/Debug/net7.0/Task68.csproj.CoreCompileInputs.cache

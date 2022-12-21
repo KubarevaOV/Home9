@@ -1,0 +1,15 @@
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home9/Task64/bin/Debug/net7.0/Task64
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home9/Task64/bin/Debug/net7.0/Task64.deps.json
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home9/Task64/bin/Debug/net7.0/Task64.runtimeconfig.json
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home9/Task64/bin/Debug/net7.0/Task64.dll
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home9/Task64/bin/Debug/net7.0/Task64.pdb
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home9/Task64/obj/Debug/net7.0/Task64.csproj.AssemblyReference.cache
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home9/Task64/obj/Debug/net7.0/Task64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home9/Task64/obj/Debug/net7.0/Task64.AssemblyInfoInputs.cache
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home9/Task64/obj/Debug/net7.0/Task64.AssemblyInfo.cs
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home9/Task64/obj/Debug/net7.0/Task64.csproj.CoreCompileInputs.cache
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home9/Task64/obj/Debug/net7.0/Task64.dll
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home9/Task64/obj/Debug/net7.0/refint/Task64.dll
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home9/Task64/obj/Debug/net7.0/Task64.pdb
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home9/Task64/obj/Debug/net7.0/Task64.genruntimeconfig.cache
+/Users/dmitrykuklin/Documents/HomeWork/Home1C#/Home9/Task64/obj/Debug/net7.0/ref/Task64.dll
